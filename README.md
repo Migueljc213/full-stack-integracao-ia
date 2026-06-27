@@ -68,3 +68,4 @@ First, run the development server:
 
 ```bash
 npm run dev# full-stack-integracao-ia
+# full-stack-integracao-ia
